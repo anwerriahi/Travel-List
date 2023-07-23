@@ -14,6 +14,7 @@ TRAVEL-LIST is a functional and responsive React app designed to simplify the pa
 5. **User-Friendly Interface:** TRAVEL-LIST boasts a user-friendly interface that enables smooth navigation and a delightful user experience.
 
 **Usage:**
+    - Try it online here: https://travel-list-far-away.netlify.app
 
 1. **Installation:**
    - Download the .zip source code
